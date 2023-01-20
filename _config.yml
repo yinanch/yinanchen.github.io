@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yinan Chen"
-  avatar           : "images/face.jpg"
+  avatar           : "https://github.com/yinanch/yinanchen.github.io/blob/master/images/face.png"
   bio              : "Undergraduate student in Department of Astronomy in USTC"
   location         : "Location"
   employer         :
